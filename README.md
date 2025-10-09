@@ -1,6 +1,6 @@
 # Relearning to Think Like a Programmer
 
-I’ve decided to start documenting my  coding challenges through FreeCodecamps daily chaleenges — not to show off progress, but to rebuild how I think about code.
+I’ve decided to start documenting my  coding challenges through FreeCodecamp's daily chaleenges — not to show off progress, but to rebuild how I think about code.
 
 Lately, I’ve realized that I’ve been too dependent on the internet and AI when solving problems. While these tools are helpful, they’ve made me skip the most important part of programming: thinking deeply and solving problems on my own.
 
