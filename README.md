@@ -1,4 +1,4 @@
-Relearning to Think Like a Programmer
+# Relearning to Think Like a Programmer
 
 I’ve decided to start documenting my  coding challenges through FreeCodecamps daily chaleenges — not to show off progress, but to rebuild how I think about code.
 
