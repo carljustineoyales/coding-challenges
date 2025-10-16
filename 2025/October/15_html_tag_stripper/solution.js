@@ -6,10 +6,11 @@
 
 // ['<','a',' ','h','r','e','f','=','"','#','"','>','C','l','i','c','k',' ','h','e','r','e','<','/','a','>']
 // look for the start tag symbol save the index  
-// [['<'],'a',...] index = 0
+// [['<'],'a',...] start index = 0
 // then search for the end tag
-// [...'"',['>'],'C'...] index = 11
+// [...'"',['>'],'C'...] end index = 11
 // then change all contents beween 0 to 11 to an empty string
+// reset the indexes
 // repeat until it reaches the end
 // after loop is done join the remaining content
 
