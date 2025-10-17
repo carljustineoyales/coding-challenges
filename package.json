@@ -1,0 +1,23 @@
+{
+  "name": "coding_challenges",
+  "version": "1.0.0",
+  "description": "I’ve decided to start documenting my  coding challenges through FreeCodecamp's daily chaleenges — not to show off progress, but to rebuild how I think about code.",
+  "type": "module",
+  "scripts": {
+    "test": "vitest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carljustineoyales/coding-challenges.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carljustineoyales/coding-challenges/issues"
+  },
+  "homepage": "https://github.com/carljustineoyales/coding-challenges#readme",
+  "devDependencies": {
+    "vitest": "^3.2.4"
+  }
+}
